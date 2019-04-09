@@ -37,7 +37,7 @@
     <repository>
         <id>my_release_deployment</id>
         <name>my_release_deployment</name>
-        <url>http://http://35.237.40.187:8081/repository/subhash1/</url>
+        <url>http://35.237.40.187:8081/repository/subhash1/</url>
     </repository>
 </distributionManagement> 
 
