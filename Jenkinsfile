@@ -1,5 +1,5 @@
 pipeline {
-    agent slave 
+    agent {'slave'} 
     stages {
         stage('checkout from GIT') { 
             steps {
