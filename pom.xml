@@ -31,7 +31,7 @@
     <snapshotRepository>
         <id>mydeployment</id>
         <name>mydeployment</name>
-        <url>http://35.229.122.112:8081/repository/subhash/</url>
+        <url>http://35.231.153.247:8081/repository/subhash/</url>
     </snapshotRepository>
 
     <repository>
