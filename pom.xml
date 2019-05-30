@@ -29,7 +29,7 @@
 
 <distributionManagement>
     <snapshotRepository>
-        <id>mydeployment</id>
+        <id>com.mycompany.app</id>
         <name>mydeployment</name>
         <url>http://35.231.36.109:8081/repository/subhash/</url>
     </snapshotRepository>
