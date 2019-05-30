@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.mycompany.app</groupId>
+  <groupId>mydeployment</groupId>
   <artifactId>mydeployment</artifactId>
   <version>1.0-SNAPSHOT</version>
 
@@ -29,7 +29,7 @@
 
 <distributionManagement>
     <snapshotRepository>
-        <id>com.mycompany.app</id>
+        <id>mydeployment</id>
         <name>mydeployment</name>
         <url>http://104.196.172.118:8081/repository/subhash/</url>
     </snapshotRepository>
