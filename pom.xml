@@ -31,13 +31,13 @@
     <snapshotRepository>
         <id>com.mycompany.app</id>
         <name>mydeployment</name>
-        <url>http://35.231.36.109:8081/repository/subhash/</url>
+        <url>http://104.196.172.118:8081/repository/subhash/</url>
     </snapshotRepository>
 
     <repository>
         <id>my_release_deployment</id>
         <name>my_release_deployment</name>
-        <url>http://35.231.36.109:8081/repository/subhash1/</url>
+        <url>http://104.196.172.118:8081/repository/subhash1/</url>
     </repository>
 
 </distributionManagement> 
